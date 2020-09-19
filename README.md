@@ -12,6 +12,15 @@
 - SNOWFLAKE FOR FINANCIAL SERVICES, Leverage the power of your data to drive personalized experiences, improved business efficiency, and proactive risk mitigation.
 
 
+* What are the company's strengths?
+Well designed
+Easy to use
+Great deal of application potential
+Can run data on multiple clouds and regions for a single and consistent experience 
+Share data more easily and more securely
+Allows multiple teams to access and work on the same data
+Can be used across many different industries and not just finance 
+
 ## Contributors: 
 Emmanuel
 Lawrence
